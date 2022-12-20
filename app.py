@@ -69,7 +69,7 @@ for index, (platform,link) in enumerate(SOCIAL_MEDIA.items()):
 st.write("#")
 st.subheader("Experience and Qualifications")
 st.write("""
-:one: Worked as a Technical Content Engineer @ GeeksForGeeks \n
+:one: Worked as a Technical Content Engineer @ PrepBytes \n
 :two: Worked as a Mentor @ GeeksforGeeks
 """)
 
