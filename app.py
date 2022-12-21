@@ -22,12 +22,14 @@ EMAIL = "alimalim77@gmail.com"
 SOCIAL_MEDIA = {
     "Youtube" : "https://youtube.com/@codebroski",
     "LinkedIn" : "https://linkedin.com/in/alimalim77",
+    "Github" : "https://github.com/alimalim77",
+    "Leetcode" : "https://leetcode.com/alimalim77/",
 }
 
 PROJECTS = {
     "Drink Water Notifier - Desktop App to notify the user" : "",
     "User Profile Generator - Web App to fetch user information" : "",
-    "Restaurant Management System" : "Review feature, User authentication and order tracking",
+    "Restaurant Management System - Review feature, User authentication and order tracking" : "",
 
 }
 
