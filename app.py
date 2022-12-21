@@ -27,9 +27,9 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    "Drink Water Notifier - Desktop App to notify the user" : "",
-    "User Profile Generator - Web App to fetch user information" : "",
-    "Restaurant Management System - Review feature, User authentication and order tracking" : "",
+    "Drink Coffee Notifier - Desktop App to notify the user" : "https://github.com/alimalim77/Drink-Coffee",
+    "User Profile Generator - Web App to fetch user information" : "https://github.com/alimalim77/LGMVIP-Web/tree/main/Task%202",
+    "Restaurant Management System - Web Service to review dishes and restaurants" : "https://github.com/alimalim77/Restaurant_Management_System",
 
 }
 
@@ -81,7 +81,7 @@ st.write("#")
 st.subheader("Hard Skills")
 st.write("""
 -*Programming Languages* - Python, C++, Javascript \n
--*Libraries* - Numpy, Pandas, Flask, Streamlit, React \n
+-*Libraries* - Numpy, Pandas, Flask, Streamlit, ReactJS, ExpressJS \n
 -*Databases* - MySQL, Postgre 
 """)
 
